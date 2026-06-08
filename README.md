@@ -21,5 +21,4 @@ A full-stack SaaS Billing Platform developed using React, Flask, and MongoDB.
 backend/
 frontend/
 
-## Author
-Devaki Kadam
+
